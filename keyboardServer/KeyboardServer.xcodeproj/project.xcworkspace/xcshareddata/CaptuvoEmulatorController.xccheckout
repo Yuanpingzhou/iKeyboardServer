@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>44243AEA-FD4E-4452-B9CC-A822C83E3394</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CaptuvoEmulatorController</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4600C271-A17D-4C2B-90B6-4809B3398F0B</key>
+		<string>https://acssvn.honeywell.com/HSM/Enabling/Captuvo/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/CaptuvoEmulatorController.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4600C271-A17D-4C2B-90B6-4809B3398F0B</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>4600C271-A17D-4C2B-90B6-4809B3398F0B</key>
+		<string>https://acssvn.honeywell.com/HSM/Enabling/Captuvo</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://acssvn.honeywell.com/HSM/Enabling/Captuvo/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/CaptuvoEmulatorController.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4600C271-A17D-4C2B-90B6-4809B3398F0B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4600C271-A17D-4C2B-90B6-4809B3398F0B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>trunk</string>
+		</dict>
+	</array>
+</dict>
+</plist>

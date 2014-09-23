@@ -1,0 +1,686 @@
+TCaptuvoEmulatorController
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Info.plist /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/Info.plist
+cStripNIB /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEmulator.sh build/Release/CaptuvoEmulatorController.app/Contents/Resources/CaptuvoEmulator.sh
+cCpResource AppIcon.icns build/Release/CaptuvoEmulatorController.app/Contents/Resources/AppIcon.icns
+cProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-dxwovdczejhnusauxflmnwrzgqnm/CaptuvoEmulatorController_Prefix.pch.pch CaptuvoEmulatorController_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/main.o /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AppController.o /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AsyncSocket.o /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/MacOS/CaptuvoEmulatorController normal x86_64
+cTouch /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app
+cCodeSign /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000053606CAA00000000000000AA
+t1398828202
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052AE89AD000000000000044C
+t1387170221
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F404D00000000000001DE
+t1394557005
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c00000000531F404E0000000000268434
+t1394557006
+s2524212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c0000000052AE89AD0000000000007D5C
+t1387170221
+s32092
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c00000000531F404E0000000000020D64
+t1394557006
+s134500
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c0000000052AE89AD000000000001B3B8
+t1387170221
+s111544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c00000000531F404E0000000000034FAC
+t1394557006
+s217004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c0000000052AE89AD000000000000CB08
+t1387170221
+s51976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c0000000052AE89AD000000000002C5F4
+t1387170221
+s181748
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c0000000052AE89AD000000000002B9A8
+t1387170221
+s178600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c00000000531F404E0000000000011EF8
+t1394557006
+s73464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531F404E00000000000598A8
+t1394557006
+s366760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052AE89AE000000000000253C
+t1387170222
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000531F404E000000000004C7C4
+t1394557006
+s313284
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531F404E0000000000085C70
+t1394557006
+s547952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531F404E000000000008B334
+t1394557006
+s570164
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c0000000052AE89AE000000000000979C
+t1387170222
+s38812
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c0000000052AE89AE00000000000223B4
+t1387170222
+s140212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c00000000531F404E0000000000071CA8
+t1394557006
+s466088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c0000000052AE89AE0000000000017E1C
+t1387170222
+s97820
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c00000000531F404E000000000004F090
+t1394557006
+s323728
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c00000000531F404E000000000003AA48
+t1394557006
+s240200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c00000000531F404E00000000000383CC
+t1394557006
+s230348
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c0000000052AE89AE000000000001B66C
+t1387170222
+s112236
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531F404E0000000000030448
+t1394557006
+s197704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F404E00000000000C9E38
+t1394557006
+s826936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000531F404E00000000000394B0
+t1394557006
+s234672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/crt1.10.6.o
+c0000000052AE89B500000000000022C4
+t1387170229
+s8900
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000531F404E000000000000681C
+t1394557006
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+c0000000052AE89B50000000000014EF8
+t1387170229
+s85752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c0000000052AE89B50000000000004734
+t1387170229
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052AE89B5000000000000FC6C
+t1387170229
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052AE89B5000000000000F6A0
+t1387170229
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c0000000052AE89B50000000000006254
+t1387170229
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000052AE89B5000000000000E0F8
+t1387170229
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000531F404E000000000000D6DC
+t1394557006
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000531F404E0000000000006308
+t1394557006
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c0000000052AE89B50000000000004050
+t1387170229
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000531F404E0000000000008570
+t1394557006
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c0000000052AE89B50000000000005EA0
+t1387170229
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c0000000052AE89B50000000000005FAC
+t1387170229
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c0000000052AE89B50000000000004440
+t1387170229
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000052AE89B5000000000000AA28
+t1387170229
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c0000000052AE89B50000000000003E2C
+t1387170229
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000531F404F0000000000030B04
+t1394557007
+s199428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000531F404E0000000000005E54
+t1394557006
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000531F404E0000000000006A90
+t1394557006
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c0000000052AE89B500000000000178AC
+t1387170229
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000531F404E000000000001ADC8
+t1394557006
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052AE89B5000000000001028C
+t1387170229
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000531F404E0000000000008800
+t1394557006
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052AE89B50000000000011090
+t1387170229
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000052AE89B5000000000000882C
+t1387170229
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000531F404E00000000000067AC
+t1394557006
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c0000000052AE89B50000000000008DEC
+t1387170229
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000531F404E0000000000004C08
+t1394557006
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000531F404E0000000000002428
+t1394557006
+s9256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c0000000052AE89B5000000000000439C
+t1387170229
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c0000000052AE89B50000000000006768
+t1387170229
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000531F404E00000000000172F4
+t1394557006
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+c00000000531F404F000000000000BAF8
+t1394557007
+s47864
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c0000000053606C950000000000001770
+t1398828181
+s6000
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000536EBAC20000000000006570
+t1399765698
+s25968
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEmulator.sh
+c0000000053A105ED0000000000000661
+t1403061741
+s1633
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AppController.h
+c000000005248CC790000000000000B49
+t1380502649
+s2889
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AppController.m
+c00000000532168060000000000005890
+t1394698246
+s22672
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AppIcon.icns
+c000000005248CC79000000000000ABB8
+t1380502649
+s43960
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.h
+c000000005248CC7900000000000042A9
+t1380502649
+s17065
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m
+c000000005248CC790000000000015661
+t1380502649
+s87649
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/CaptuvoEmulatorController_Prefix.pch
+c000000005248CC790000000000000097
+t1380502649
+s151
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/English.lproj/InfoPlist.strings
+c000000005248CC7900000000000000CA
+t1380502649
+s202
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/English.lproj/MainMenu.nib
+c0000000052AE8B5D0000000000000088
+t1387170653
+s136
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/Info.plist
+c000000005248CC790000000000000398
+t1380502649
+s920
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AppController.o
+t1405303982
+s110628
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AsyncSocket.o
+t1405303982
+s206020
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/CaptuvoEmulatorController.LinkFileList
+c0000000053A0FF3600000000000002AD
+t1403060022
+s685
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/main.o
+t1405303982
+s2888
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app
+t1406166100
+s102
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Info.plist
+t1405303972
+s1366
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/MacOS/CaptuvoEmulatorController
+t1405501105
+s137936
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/PkgInfo
+t1405303972
+s8
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources/AppIcon.icns
+t1403060022
+s43960
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources/CaptuvoEmulator.sh
+t1403075720
+s1633
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1403060022
+s202
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources/English.lproj/MainMenu.nib
+t1403060022
+s40109
+
+N/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/main.m
+c000000005248CC790000000000000101
+t1380502649
+s257
+
+N/var/folders/sd/ywdt2zqn7511yp1l_82rsdnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-ayashxvsojyeuleizsotuvyoxsdu/CaptuvoEmulatorController_Prefix.pch.pch
+t1403055066
+s13708448
+
+N/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-ayashxvsojyeuleizsotuvyoxsdu/CaptuvoEmulatorController_Prefix.pch.pch
+t1403056612
+s13708448
+
+N/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-dxwovdczejhnusauxflmnwrzgqnm/CaptuvoEmulatorController_Prefix.pch.pch
+t1405303981
+s13708448
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies28ef53d49b80b941^7a53a1d49b80b941^---0#1#1#--18"Check dependencies36"3E7DFB8D-A9CF-4844-B1C1-A7DDA7FBA6F3-
+
+CCodeSign /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app
+s427858900.732623
+e427858901.259411
+r1
+xCodeSign
+x/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app
+o/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app: replacing existing signature
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"[1mCodeSign[0m [1mbuild/Release/CaptuvoEmulatorController.app[0m68"[1mCodeSign[0m [1mbuild/Release/CaptuvoEmulatorController.app[0mcb9fbbd49b80b941^ce6d42d59b80b941^-190"/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@167"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/0000000000000000^643"[1mCodeSign[0m [1mbuild/Release/CaptuvoEmulatorController.app[0m    cd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    Using code signing identity "iPhone Developer: Yuanping zhou (9Y3WWBLV34)"    /usr/bin/codesign --force --sign B05CE26D09D06C411F93003A5CBB37F7FA13837C /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app36"AB549AA7-9A98-48E8-AD46-1DD846A4A01D-
+b12EE716A-2772-4E2A-ADF7-00AD539C0626
+
+CCompileC build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AppController.o /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426996782.208466
+e426996782.519917
+r1
+xCompileC
+xbuild/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AppController.o
+x/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AppController.m
+d/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AppController.h
+d/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Compile /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AppController.m226"[1mCompileC[0m build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AppController.o [1mAppController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8a76352e7473b941^c51b852e7473b941^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AppController.m0000000000000000^3652"[1mCompileC[0m build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AppController.o [1mAppController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=139 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/CaptuvoEmulatorController.hmap -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/DerivedSources/x86_64 -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/DerivedSources -F/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-dxwovdczejhnusauxflmnwrzgqnm/CaptuvoEmulatorController_Prefix.pch -MMD -MT dependencies -MF /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AppController.d --serialize-diagnostics /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AppController.dia -c /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AppController.m -o /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AppController.o36"3AAD04AC-218A-41D9-B223-EDE74DC3BE9D-
+b1044C0C7-086D-4727-9549-79B601EAE6C4
+
+CCompileC build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AsyncSocket.o /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426996782.209046
+e426996782.906409
+r1
+xCompileC
+xbuild/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AsyncSocket.o
+x/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m
+d/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.h
+o[1m/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m:951:50: [0m[0;1;35mwarning: [0m[1m
+o      format string is not a string literal (potentially insecure) [-Wformat-security][0m
+o                [NSException raise:AsyncSocketException format:message];
+o[0;1;32m                                                               ^~~~~~~
+o[0m[1m/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m:957:50: [0m[0;1;35mwarning: [0m[1m
+o      format string is not a string literal (potentially insecure) [-Wformat-security][0m
+o                [NSException raise:AsyncSocketException format:message];
+o[0;1;32m                                                               ^~~~~~~
+o[0m[1m/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m:1004:50: [0m[0;1;35mwarning: [0m[1m
+o      format string is not a string literal (potentially insecure) [-Wformat-security][0m
+o                [NSException raise:AsyncSocketException format:message];
+o[0;1;32m                                                               ^~~~~~~
+o[0m[1m/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m:1010:50: [0m[0;1;35mwarning: [0m[1m
+o      format string is not a string literal (potentially insecure) [-Wformat-security][0m
+o                [NSException raise:AsyncSocketException format:message];
+o[0;1;32m                                                               ^~~~~~~
+o[0m4 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m222"[1mCompileC[0m build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AsyncSocket.o [1mAsyncSocket.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere59b352e7473b941^280ae82e7473b941^-1708"[1m/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m:951:50: [0m[0;1;35mwarning: [0m[1m      format string is not a string literal (potentially insecure) [-Wformat-security][0m                [NSException raise:AsyncSocketException format:message];[0;1;32m                                                               ^~~~~~~[0m[1m/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m:957:50: [0m[0;1;35mwarning: [0m[1m      format string is not a string literal (potentially insecure) [-Wformat-security][0m                [NSException raise:AsyncSocketException format:message];[0;1;32m                                                               ^~~~~~~[0m[1m/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m:1004:50: [0m[0;1;35mwarning: [0m[1m      format string is not a string literal (potentially insecure) [-Wformat-security][0m                [NSException raise:AsyncSocketException format:message];[0;1;32m                                                               ^~~~~~~[0m[1m/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m:1010:50: [0m[0;1;35mwarning: [0m[1m      format string is not a string literal (potentially insecure) [-Wformat-security][0m                [NSException raise:AsyncSocketException format:message];[0;1;32m                                                               ^~~~~~~[0m4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@60"Format string is not a string literal (potentially insecure)-426996782#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@136"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m0000000000000000^950#49#950#49#29228#0#19"Format String Issue1(3@136"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m0000000000000000^950#49#950#56#29228#0#-2@60"Format string is not a string literal (potentially insecure)-426996782#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@136"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m0000000000000000^956#49#956#49#29447#0#19"Format String Issue1(3@136"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m0000000000000000^956#49#956#56#29447#0#-2@60"Format string is not a string literal (potentially insecure)-426996782#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@136"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m0000000000000000^1003#49#1003#49#31241#0#19"Format String Issue1(3@136"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m0000000000000000^1003#49#1003#56#31241#0#-2@60"Format string is not a string literal (potentially insecure)-426996782#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@136"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m0000000000000000^1009#49#1009#49#31462#0#19"Format String Issue1(3@136"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m0000000000000000^1009#49#1009#56#31462#0#-0#0#1#-19%DVTDocumentLocation4@136"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m0000000000000000^3640"[1mCompileC[0m build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AsyncSocket.o [1mAsyncSocket.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=139 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/CaptuvoEmulatorController.hmap -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/DerivedSources/x86_64 -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/DerivedSources -F/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-dxwovdczejhnusauxflmnwrzgqnm/CaptuvoEmulatorController_Prefix.pch -MMD -MT dependencies -MF /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AsyncSocket.d --serialize-diagnostics /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AsyncSocket.dia -c /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AsyncSocket.m -o /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AsyncSocket.o36"0B7CF46B-1DDC-4AE1-9D4B-2D15EB6DF9BA-
+b1044C0C7-086D-4727-9549-79B601EAE6C4
+
+CCompileC build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/main.o /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426996782.208138
+e426996782.310626
+r1
+xCompileC
+xbuild/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/main.o
+x/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/main.m208"[1mCompileC[0m build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/main.o [1mmain.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdc63352e7473b941^1a864f2e7473b941^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/main.m0000000000000000^3598"[1mCompileC[0m build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/main.o [1mmain.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=139 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/CaptuvoEmulatorController.hmap -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/DerivedSources/x86_64 -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/DerivedSources -F/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-dxwovdczejhnusauxflmnwrzgqnm/CaptuvoEmulatorController_Prefix.pch -MMD -MT dependencies -MF /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/main.dia -c /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/main.m -o /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/main.o36"FE311D24-E866-4F80-9CB2-4D59E031ADDB-
+b1044C0C7-086D-4727-9549-79B601EAE6C4
+
+CCopyStringsFile /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s424752822.133162
+e424752822.135508
+r1
+xCopyStringsFile
+x/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings150"[1mCopyStringsFile[0m build/Release/CaptuvoEmulatorController.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.stringse36c22b63651b941^1bb922b63651b941^---0#0#1#-19%DVTDocumentLocation2@154"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/English.lproj/InfoPlist.strings0000000000000000^593"[1mCopyStringsFile[0m build/Release/CaptuvoEmulatorController.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"8F9C209E-0DF6-4DD7-8890-E9A910947A20-
+b97BAC57A-FE5F-4548-83AB-459C423DE4AC
+
+CCpResource /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEmulator.sh build/Release/CaptuvoEmulatorController.app/Contents/Resources/CaptuvoEmulator.sh
+s424768520.236382
+e424768520.237378
+r1
+xCpResource
+x/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEmulator.sh
+xbuild/Release/CaptuvoEmulatorController.app/Contents/Resources/CaptuvoEmulator.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy build/Release/CaptuvoEmulatorController.app/Contents/Resources/CaptuvoEmulator.sh209"[1mCpResource[0m /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEmulator.sh build/Release/CaptuvoEmulatorController.app/Contents/Resources/CaptuvoEmulator.sh86933c087451b941^00c53c087451b941^---0#0#1#-19%DVTDocumentLocation2@204"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources/CaptuvoEmulator.sh0000000000000000^859"[1mCpResource[0m /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEmulator.sh build/Release/CaptuvoEmulatorController.app/Contents/Resources/CaptuvoEmulator.sh    cd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEmulator.sh /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources36"623A4D56-7F69-4A4E-8135-BA82D57EDD42-
+b55F92AF6-CFBF-4091-A9E0-391223BB7737
+
+CCpResource AppIcon.icns build/Release/CaptuvoEmulatorController.app/Contents/Resources/AppIcon.icns
+s424752822.134240
+e424752822.136297
+r1
+xCpResource
+xAppIcon.icns
+xbuild/Release/CaptuvoEmulatorController.app/Contents/Resources/AppIcon.icns
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy build/Release/CaptuvoEmulatorController.app/Contents/Resources/AppIcon.icns107"[1mCpResource[0m AppIcon.icns build/Release/CaptuvoEmulatorController.app/Contents/Resources/AppIcon.icns117222b63651b941^36e522b63651b941^---0#0#1#-19%DVTDocumentLocation2@198"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources/AppIcon.icns00346870deffdf42^777"[1mCpResource[0m AppIcon.icns build/Release/CaptuvoEmulatorController.app/Contents/Resources/AppIcon.icns    cd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/AppIcon.icns /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources36"F57C06C5-5B30-4D12-8C31-A543C8FB9563-
+b97BAC57A-FE5F-4548-83AB-459C423DE4AC
+
+CLd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/MacOS/CaptuvoEmulatorController normal x86_64
+s426996783.257084
+e426996784.439463
+r1
+xLd
+x/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/MacOS/CaptuvoEmulatorController
+xnormal
+xx86_64
+d/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/CaptuvoEmulatorController.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/crt1.10.6.o
+d/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/main.o
+d/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AppController.o
+d/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/AsyncSocket.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection205"Link /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/MacOS/CaptuvoEmulatorController109"[1mLd[0m build/Release/CaptuvoEmulatorController.app/Contents/MacOS/CaptuvoEmulatorController normal x86_645ce5412f7473b941^6f8170307473b941^---0#0#1#--1586"[1mLd[0m build/Release/CaptuvoEmulatorController.app/Contents/MacOS/CaptuvoEmulatorController normal x86_64    cd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release -F/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release -filelist /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/CaptuvoEmulatorController.LinkFileList -mmacosx-version-min=10.7 -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/Objects-normal/x86_64/CaptuvoEmulatorController_dependency_info.dat -o /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/MacOS/CaptuvoEmulatorController36"DEA77CF1-FC5C-4040-ABAB-DA5D32C81F29-
+b1044C0C7-086D-4727-9549-79B601EAE6C4
+
+CProcessInfoPlistFile /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Info.plist /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/Info.plist
+s426996772.200032
+e426996772.201901
+r1
+xProcessInfoPlistFile
+x/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Info.plist
+x/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Process /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/Info.plist111"[1mProcessInfoPlistFile[0m build/Release/CaptuvoEmulatorController.app/Contents/Info.plist [1mInfo.plist[0m984e33247473b941^1db033247473b941^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/Info.plist0000000000000000^801"[1mProcessInfoPlistFile[0m build/Release/CaptuvoEmulatorController.app/Contents/Info.plist [1mInfo.plist[0m    cd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController    builtin-infoPlistUtility /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/Info.plist -genpkginfo /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Info.plist36"1B4F26DC-E149-40C2-9852-C20B15A7EAA6-
+b1044C0C7-086D-4727-9549-79B601EAE6C4
+
+CProcessPCH /var/folders/sd/ywdt2zqn7511yp1l_82rsdnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-ayashxvsojyeuleizsotuvyoxsdu/CaptuvoEmulatorController_Prefix.pch.pch CaptuvoEmulatorController_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-ayashxvsojyeuleizsotuvyoxsdu/CaptuvoEmulatorController_Prefix.pch.pch CaptuvoEmulatorController_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-dxwovdczejhnusauxflmnwrzgqnm/CaptuvoEmulatorController_Prefix.pch.pch CaptuvoEmulatorController_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426996772.203394
+e426996782.207286
+r1
+xProcessPCH
+x/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-dxwovdczejhnusauxflmnwrzgqnm/CaptuvoEmulatorController_Prefix.pch.pch
+xCaptuvoEmulatorController_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/CaptuvoEmulatorController_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile CaptuvoEmulatorController_Prefix.pch346"[1mProcessPCH[0m /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-dxwovdczejhnusauxflmnwrzgqnm/CaptuvoEmulatorController_Prefix.pch.pch CaptuvoEmulatorController_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2b3034247473b941^8010352e7473b941^---0#0#1#-19%DVTDocumentLocation2@159"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/CaptuvoEmulatorController_Prefix.pch0000000000000000^3537"[1mProcessPCH[0m /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-dxwovdczejhnusauxflmnwrzgqnm/CaptuvoEmulatorController_Prefix.pch.pch CaptuvoEmulatorController_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=139 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/CaptuvoEmulatorController.hmap -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/DerivedSources/x86_64 -I/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/CaptuvoEmulatorController.build/Release/CaptuvoEmulatorController.build/DerivedSources -F/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release --serialize-diagnostics /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-dxwovdczejhnusauxflmnwrzgqnm/CaptuvoEmulatorController_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-dxwovdczejhnusauxflmnwrzgqnm/CaptuvoEmulatorController_Prefix.pch.d -c /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/CaptuvoEmulatorController_Prefix.pch -o /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CaptuvoEmulatorController_Prefix-dxwovdczejhnusauxflmnwrzgqnm/CaptuvoEmulatorController_Prefix.pch.pch36"B9B75027-62F4-4511-BF7C-C208C0D25D11-
+b1044C0C7-086D-4727-9549-79B601EAE6C4
+
+CStripNIB /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/English.lproj/MainMenu.nib
+s424752822.131651
+e424752822.735305
+r1
+xStripNIB
+x/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/English.lproj/MainMenu.nib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Processing /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/English.lproj/MainMenu.nib51"[1mStripNIB[0m [1mEnglish.lproj/MainMenu.nib[0mf7cd21b63651b941^143dbcb63651b941^---0#0#1#-19%DVTDocumentLocation2@150"file:///Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/English.lproj/MainMenu.nib/0000000000000000^720"[1mStripNIB[0m [1mEnglish.lproj/MainMenu.nib[0m    cd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --strip /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/English.lproj/MainMenu.nib36"44A7ED41-EA8C-42E5-A407-F6766BC42D4A-
+b97BAC57A-FE5F-4548-83AB-459C423DE4AC
+
+CTouch /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app
+s427858900.713005
+e427858900.731984
+r1
+xTouch
+x/Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection165"Touch /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app57"[1mTouch[0m build/Release/CaptuvoEmulatorController.appf4a6b6d49b80b941^2c63bbd49b80b941^---0#0#1#--363"[1mTouch[0m build/Release/CaptuvoEmulatorController.app    cd /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController    /usr/bin/touch -c /Users/zhoushadow/Desktop/TempBuilding/CaptuvoSVN/trunk/Source/PowerTools/CaptuvoEmulator/CaptuvoEnulatorController/build/Release/CaptuvoEmulatorController.app36"736864D5-67BD-4621-9271-93FAAD885266-
+b12EE716A-2772-4E2A-ADF7-00AD539C0626
+

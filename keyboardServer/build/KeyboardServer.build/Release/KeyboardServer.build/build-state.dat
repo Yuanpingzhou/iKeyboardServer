@@ -1,0 +1,334 @@
+TKeyboardServer
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Info.plist /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/Info.plist
+cStripNIB /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/KeyboardServer.sh build/Release/KeyboardServer.app/Contents/Resources/KeyboardServer.sh
+cCpResource AppIcon.icns build/Release/KeyboardServer.app/Contents/Resources/AppIcon.icns
+cProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/KeyboardServer_Prefix-cfhmewuuzcputhguphthslqbxcky/KeyboardServer_Prefix.pch.pch KeyboardServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/main.o /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AppController.o /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AsyncSocket.o /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AsyncSocket.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/MacOS/KeyboardServer normal x86_64
+cTouch /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000053606CAA00000000000000AA
+t1398828202
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052AE89AD000000000000044C
+t1387170221
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F404D00000000000001DE
+t1394557005
+s478
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000053AF2BD40000000000006570
+t1403988948
+s25968
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/KeyboardServer.sh
+c0000000053DA5D30000000000000061E
+t1406819632
+s1566
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AppController.m
+c000000005415C6DA0000000000005A0B
+t1410713306
+s23051
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AppIcon.icns
+c000000005248CC79000000000000ABB8
+t1380502649
+s43960
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AsyncSocket.m
+c0000000053DEFF070000000000015677
+t1407123207
+s87671
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/English.lproj/InfoPlist.strings
+c000000005248CC7900000000000000CA
+t1380502649
+s202
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/English.lproj/MainMenu.nib
+c000000005415C2D00000000000000088
+t1410712272
+s136
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/Info.plist
+c0000000054163F48000000000000039C
+t1410744136
+s924
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/KeyboardServer_Prefix.pch
+c000000005248CC790000000000000097
+t1380502649
+s151
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AppController.o
+t1410744842
+s110352
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AsyncSocket.o
+t1410744842
+s205892
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/KeyboardServer.LinkFileList
+c00000000541641F100000000000001FF
+t1410744817
+s511
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/main.o
+t1410744842
+s2784
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app
+t1410744817
+s102
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Info.plist
+t1410744817
+s1348
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/MacOS/KeyboardServer
+t1410744844
+s127696
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/PkgInfo
+t1410744817
+s8
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources/AppIcon.icns
+t1410744817
+s43960
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1410744817
+s202
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources/English.lproj/MainMenu.nib
+t1410744827
+s31336
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources/KeyboardServer.sh
+t1410744817
+s1566
+
+N/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/main.m
+c000000005248CC790000000000000101
+t1380502649
+s257
+
+N/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/KeyboardServer_Prefix-cfhmewuuzcputhguphthslqbxcky/KeyboardServer_Prefix.pch.pch
+t1410744841
+s13707848
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies734c6e6d79c6b941^637b797179c6b941^---0#1#1#--18"Check dependencies36"FA9A8C65-5F7F-4D33-8ACD-578560403F40-
+
+CCompileC build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AppController.o /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432437641.739993
+e432437642.462452
+r1
+xCompileC
+xbuild/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AppController.o
+x/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AppController.m
+d/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AppController.h
+d/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AsyncSocket.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AppController.m204"[1mCompileC[0m build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AppController.o [1mAppController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerad85bd8979c6b941^f564768a79c6b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AppController.m0000000000000000^3104"[1mCompileC[0m build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AppController.o [1mAppController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/KeyboardServer.hmap -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/DerivedSources/x86_64 -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/DerivedSources -F/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/KeyboardServer_Prefix-cfhmewuuzcputhguphthslqbxcky/KeyboardServer_Prefix.pch -MMD -MT dependencies -MF /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AppController.d --serialize-diagnostics /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AppController.dia -c /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AppController.m -o /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AppController.o36"97541730-2BEF-4F17-94D1-FC526AA78053-
+bA4B405B3-5F42-46FC-A221-201A83B5C3E5
+
+CCompileC build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AsyncSocket.o /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AsyncSocket.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432437641.740345
+e432437642.695806
+r1
+xCompileC
+xbuild/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AsyncSocket.o
+x/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AsyncSocket.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AsyncSocket.m
+d/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AsyncSocket.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AsyncSocket.m200"[1mCompileC[0m build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AsyncSocket.o [1mAsyncSocket.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler629ebd8979c6b941^7920b28a79c6b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AsyncSocket.m0000000000000000^3092"[1mCompileC[0m build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AsyncSocket.o [1mAsyncSocket.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/KeyboardServer.hmap -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/DerivedSources/x86_64 -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/DerivedSources -F/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/KeyboardServer_Prefix-cfhmewuuzcputhguphthslqbxcky/KeyboardServer_Prefix.pch -MMD -MT dependencies -MF /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AsyncSocket.d --serialize-diagnostics /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AsyncSocket.dia -c /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AsyncSocket.m -o /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AsyncSocket.o36"DF8841B9-F725-43AD-A3C7-A3BA01CAD487-
+bA4B405B3-5F42-46FC-A221-201A83B5C3E5
+
+CCompileC build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/main.o /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432437641.739864
+e432437642.374869
+r1
+xCompileC
+xbuild/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/main.o
+x/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/main.m186"[1mCompileC[0m build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/main.o [1mmain.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5e84bd8979c6b941^49f75f8a79c6b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/main.m0000000000000000^3050"[1mCompileC[0m build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/main.o [1mmain.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/KeyboardServer.hmap -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/DerivedSources/x86_64 -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/DerivedSources -F/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/KeyboardServer_Prefix-cfhmewuuzcputhguphthslqbxcky/KeyboardServer_Prefix.pch -MMD -MT dependencies -MF /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/main.dia -c /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/main.m -o /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/main.o36"DBA7D835-F3C7-43F0-96F9-EC15DBBF5D91-
+bA4B405B3-5F42-46FC-A221-201A83B5C3E5
+
+CCopyStringsFile /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s432437617.593789
+e432437617.718701
+r1
+xCopyStringsFile
+x/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings139"[1mCopyStringsFile[0m build/Release/KeyboardServer.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings5513987179c6b941^840cb87179c6b941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/English.lproj/InfoPlist.strings0000000000000000^499"[1mCopyStringsFile[0m build/Release/KeyboardServer.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"D9B3B1B8-D188-4DC3-93C7-731F8EC0F9A1-
+bA4B405B3-5F42-46FC-A221-201A83B5C3E5
+
+CCpResource /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/KeyboardServer.sh build/Release/KeyboardServer.app/Contents/Resources/KeyboardServer.sh
+s432437617.616199
+e432437617.718575
+r1
+xCpResource
+x/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/KeyboardServer.sh
+xbuild/Release/KeyboardServer.app/Contents/Resources/KeyboardServer.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy build/Release/KeyboardServer.app/Contents/Resources/KeyboardServer.sh171"[1mCpResource[0m /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/KeyboardServer.sh build/Release/KeyboardServer.app/Contents/Resources/KeyboardServer.sh05f99d7179c6b941^a301b87179c6b941^---0#0#1#-19%DVTDocumentLocation2@156"file:///Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources/KeyboardServer.sh0034a084ddffdf42^712"[1mCpResource[0m /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/KeyboardServer.sh build/Release/KeyboardServer.app/Contents/Resources/KeyboardServer.sh    cd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/KeyboardServer.sh /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources36"783715EA-60F7-4610-96DC-7367E9B73534-
+bA4B405B3-5F42-46FC-A221-201A83B5C3E5
+
+CCpResource AppIcon.icns build/Release/KeyboardServer.app/Contents/Resources/AppIcon.icns
+s432437617.616553
+e432437617.644005
+r1
+xCpResource
+xAppIcon.icns
+xbuild/Release/KeyboardServer.app/Contents/Resources/AppIcon.icns
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Release/KeyboardServer.app/Contents/Resources/AppIcon.icns96"[1mCpResource[0m AppIcon.icns build/Release/KeyboardServer.app/Contents/Resources/AppIcon.icnsef019e7179c6b941^3cdea47179c6b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources/AppIcon.icns0034a084ddffdf42^647"[1mCpResource[0m AppIcon.icns build/Release/KeyboardServer.app/Contents/Resources/AppIcon.icns    cd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/AppIcon.icns /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources36"233BCF86-7461-48D5-B09E-2CB9713D7135-
+bA4B405B3-5F42-46FC-A221-201A83B5C3E5
+
+CLd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/MacOS/KeyboardServer normal x86_64
+s432437642.696512
+e432437644.608187
+r1
+xLd
+x/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/MacOS/KeyboardServer
+xnormal
+xx86_64
+d/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/KeyboardServer.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/crt1.10.6.o
+d/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/main.o
+d/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AppController.o
+d/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/AsyncSocket.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Link /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/MacOS/KeyboardServer87"[1mLd[0m build/Release/KeyboardServer.app/Contents/MacOS/KeyboardServer normal x86_64315fb28a79c6b941^abb29b8c79c6b941^---0#0#1#--1260"[1mLd[0m build/Release/KeyboardServer.app/Contents/MacOS/KeyboardServer normal x86_64    cd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release -F/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release -filelist /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/KeyboardServer.LinkFileList -mmacosx-version-min=10.7 -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/Objects-normal/x86_64/KeyboardServer_dependency_info.dat -o /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/MacOS/KeyboardServer36"B625BD99-43AC-4207-A15F-C0C8383F7B64-
+bA4B405B3-5F42-46FC-A221-201A83B5C3E5
+
+CProcessInfoPlistFile /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Info.plist /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/Info.plist
+s432437617.579753
+e432437617.593073
+r1
+xProcessInfoPlistFile
+x/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Info.plist
+x/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Process /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/Info.plist100"[1mProcessInfoPlistFile[0m build/Release/KeyboardServer.app/Contents/Info.plist [1mInfo.plist[0m6188947179c6b941^c3d3977179c6b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/Info.plist0000000000000000^624"[1mProcessInfoPlistFile[0m build/Release/KeyboardServer.app/Contents/Info.plist [1mInfo.plist[0m    cd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer    builtin-infoPlistUtility /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/Info.plist -genpkginfo /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Info.plist36"27CF5E4A-7B59-4DE6-9D93-F9F57B1A6AC7-
+bA4B405B3-5F42-46FC-A221-201A83B5C3E5
+
+CProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/KeyboardServer_Prefix-cfhmewuuzcputhguphthslqbxcky/KeyboardServer_Prefix.pch.pch KeyboardServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432437627.859961
+e432437641.739001
+r1
+xProcessPCH
+x/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/KeyboardServer_Prefix-cfhmewuuzcputhguphthslqbxcky/KeyboardServer_Prefix.pch.pch
+xKeyboardServer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/KeyboardServer_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Precompile KeyboardServer_Prefix.pch313"[1mProcessPCH[0m /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/KeyboardServer_Prefix-cfhmewuuzcputhguphthslqbxcky/KeyboardServer_Prefix.pch.pch KeyboardServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7237dc7b79c6b941^e030bd8979c6b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/KeyboardServer_Prefix.pch0000000000000000^3097"[1mProcessPCH[0m /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/KeyboardServer_Prefix-cfhmewuuzcputhguphthslqbxcky/KeyboardServer_Prefix.pch.pch KeyboardServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/KeyboardServer.hmap -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/DerivedSources/x86_64 -I/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/KeyboardServer.build/Release/KeyboardServer.build/DerivedSources -F/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release --serialize-diagnostics /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/KeyboardServer_Prefix-cfhmewuuzcputhguphthslqbxcky/KeyboardServer_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/KeyboardServer_Prefix-cfhmewuuzcputhguphthslqbxcky/KeyboardServer_Prefix.pch.d -c /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/KeyboardServer_Prefix.pch -o /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/KeyboardServer_Prefix-cfhmewuuzcputhguphthslqbxcky/KeyboardServer_Prefix.pch.pch36"37628110-68E5-4C0A-A71A-93CD77F5AEB2-
+bA4B405B3-5F42-46FC-A221-201A83B5C3E5
+
+CStripNIB /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/English.lproj/MainMenu.nib
+s432437617.593637
+e432437627.859226
+r1
+xStripNIB
+x/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/English.lproj/MainMenu.nib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Processing /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/English.lproj/MainMenu.nib51"[1mStripNIB[0m [1mEnglish.lproj/MainMenu.nib[0ma514987179c6b941^6ff6db7b79c6b941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/English.lproj/MainMenu.nib/0000000000000000^601"[1mStripNIB[0m [1mEnglish.lproj/MainMenu.nib[0m    cd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --strip /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/English.lproj/MainMenu.nib36"E7E798C1-525C-4581-B36C-18809572D750-
+bA4B405B3-5F42-46FC-A221-201A83B5C3E5
+
+CTouch /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app
+s432437644.609252
+e432437644.614546
+r1
+xTouch
+x/Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Touch /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app46"[1mTouch[0m build/Release/KeyboardServer.appda049c8c79c6b941^37539d8c79c6b941^---0#0#1#--269"[1mTouch[0m build/Release/KeyboardServer.app    cd /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer    /usr/bin/touch -c /Users/zhoushadow/Desktop/Yuanping/SupperProj/SupperKeyboard/Mac/keyboardServer/build/Release/KeyboardServer.app36"F8CF4DC4-A3D6-457D-A324-811458810141-
+bA4B405B3-5F42-46FC-A221-201A83B5C3E5
+
